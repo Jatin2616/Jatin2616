@@ -164,14 +164,6 @@ Insurance POSP application for lead generation and vehicle data capture.
 
 ---
 
-## 📈 GitHub Stats
-
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin2616&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin2616&layout=compact)
-
----
-
 ## 🤝 Let's Connect
 
 📧 **Email:** thedeveloperjatin@gmail.com  
